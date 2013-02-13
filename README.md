@@ -26,5 +26,5 @@ git commit -m "Primera version de la practica"
 
 Paso 7: almacenar los cambios en el repositorio remoto 
 
-git push -u origin master
+git push origin master
 
